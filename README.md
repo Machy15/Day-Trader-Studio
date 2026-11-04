@@ -22,8 +22,7 @@ Originální implementace skriptů a AI predikcí v prostředí Claude naráží
 
 ### Varianta A: Stažení hotové aplikace (.exe)
 1. Přejdi do záložky **[Releases](../../releases)**.
-2. Stáhni nejnovější sestavení `DayTraderStudio.exe`.
-3. Spusť aplikaci, zadej svůj licenční klíč a studio je připraveno k použití.
+2. Stáhni nejnovější sestavení a spusť pomocí `start.bat`..
 
 ### Varianta B: Spuštění ze zdrojových kódů (Python)
 1. Naklonuj tento repozitář společně se závislostmi z mateřského projektu:
