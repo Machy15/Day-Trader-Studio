@@ -27,5 +27,5 @@ Originální implementace skriptů a AI predikcí v prostředí Claude naráží
 ### Varianta B: Spuštění ze zdrojových kódů (Python)
 1. Naklonuj tento repozitář společně se závislostmi z mateřského projektu:
    ```bash
-   git clone [https://github.com/TVUJ_PROFIL/TVUJ_REPOZITAR.git](https://github.com/TVUJ_PROFIL/TVUJ_REPOZITAR.git)
-   cd TVUJ_REPOZITAR
+   git clone [[https://github.com/TVUJ_PROFIL/TVUJ_REPOZITAR.git](https://github.com/Machy15/Day-Trader-Studio)]([https://github.com/TVUJ_PROFIL/TVUJ_REPOZITAR.git](https://github.com/Machy15/Day-Trader-Studio))
+
